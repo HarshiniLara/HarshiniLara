@@ -7,9 +7,9 @@
 
 
 <p align="center">
-        <a href="https://linkedin.com/in/harshini-lara-a-k-b45bb4224"><img alt="LinkedIn" title="My LinkedIn" src="https://img.shields.io/badge/linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+        <a href="https://linkedin.com/in/harshini-lara-a-k-b45bb4224"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
         <a href="https://github.com/HarshiniLara/"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=Github&logoColor=white"/></a>
-        <a href="https://leetcode.com/HarshiniLara/"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FHarshiniLara&logo=leetcode&logoColor=yellow"/></a>    
+        <a href="https://leetcode.com/HarshiniLara/"><img alt="Leetcode" title="Leetcode" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FHarshiniLara&logo=leetcode&logoColor=yellow"/></a>    
 </p>
 <br/>
 
