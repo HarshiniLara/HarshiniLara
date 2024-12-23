@@ -18,7 +18,7 @@
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshiniLara&theme=github_dark" alt=""></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshiniLara&theme=github_dark" alt=""></td>
-    <td><img src="https://streak-stats.demolab.com/?user=HarshiniLara&theme=dark" align="right" /></td>
+    <td><img src="https://streak-stats.demolab.com/?user=harshinilara&theme=dark" align="right" /></td>
   </tr>
 </table>
 
