@@ -19,11 +19,9 @@
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshiniLara&theme=github_dark" alt=""></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshiniLara&theme=github_dark" alt=""></td>
     <td><img src="https://streak-stats.demolab.com/?user=HarshiniLara&theme=dark" align="right" /></td>
-    <td>
-            <p align="center">
-        <img align="center" src="https://skillicons.dev/icons?i=cpp,python,java,nodejs,html,javascript,mongodb,mysql,react,firebase,flutter,figma&perline=6" alt="Skills">                </td>
-    </p>
-    </td>
   </tr>
 </table>
 
+<p align="center">
+<img align="center" src="https://skillicons.dev/icons?i=cpp,python,java,nodejs,html,javascript,mongodb,mysql,react,firebase,flutter,figma&perline=6" alt="Skills">            
+</p>
